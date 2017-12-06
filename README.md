@@ -1,2 +1,1 @@
-# PontoInteligente
-Ponto Inteligente versão beta
+[![Build Status](https://travis-ci.org/7Gabriel/PontoInteligente.svg?branch=master)](https://travis-ci.org/7Gabriel/PontoInteligente)
